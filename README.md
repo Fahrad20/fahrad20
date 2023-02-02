@@ -1,13 +1,14 @@
 ***Hi there I'm Fahrad Levonyan (https://www.linkedin.com/in/levonyanfahrad/)*** 👋
 
 - 🥷🏽  Front-end developer
+- 👨‍🏫  Front-end lecturer
 - 🇦🇲  Armenia
 - 🌱 I’m currently learning Full-stack Development - React.js, Next.js, Node.js...
 
  <br />
 <div align="center"> 
  <img height="150em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=fahrad20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrad20&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrad20&layout=compact&langs_count=5&theme=algolia"/>
 </div>
 
 <br />

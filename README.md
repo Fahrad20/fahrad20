@@ -4,7 +4,11 @@
 - 🥷🏽  Front-end developer
 - 👨‍🏫  Front-end lecturer
 - 🌱 I’m currently learning Full-stack Development - React.js, Next.js, Node.js...
-
+<style>
+ img {
+  background: #fff
+ }
+</style>
  <br />
 <div align="center"> 
  <img height="150em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=fahrad20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

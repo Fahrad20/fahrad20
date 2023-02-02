@@ -4,11 +4,7 @@
 - 🥷🏽  Front-end developer
 - 👨‍🏫  Front-end lecturer
 - 🌱 I’m currently learning Full-stack Development - React.js, Next.js, Node.js...
-<style>
- img {
-  background: #fff
- }
-</style>
+
  <br />
 <div align="center"> 
  <img height="150em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=fahrad20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -26,23 +22,19 @@
 
 <div align="left"> 
   <div style="display: inline_block"><br>
-    <img align="center" alt="Arnab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Arnab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Arnab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Arnab-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Arnab-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Arnab-Node" height="30" width="40" src="https://arnabghosh.me/img/logo-nodejs.png">
-   <img align="center" alt="Arnab-Analytics" height="30" width="40" src="https://arnabghosh.me/img/analytics-logo.png">
-   <img align="center" alt="Arnab-Ghost" height="30" width="40" src="https://arnabghosh.me/img/ghost-logo.png">
+    <img style="background: #fff"align="center" alt="Arnab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img style="background: #fff"align="center" alt="Arnab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img style="background: #fff"align="center" alt="Arnab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img style="background: #fff"align="center" alt="Arnab-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img style="background: #fff"align="center" alt="Arnab-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img style="background: #fff"align="center" alt="Arnab-Node" height="30" width="40" src="https://arnabghosh.me/img/logo-nodejs.png">
+   <img style="background: #fff"align="center" alt="Arnab-Analytics" height="30" width="40" src="https://arnabghosh.me/img/analytics-logo.png">
+   <img style="background: #fff"align="center" alt="Arnab-Ghost" height="30" width="40" src="https://arnabghosh.me/img/ghost-logo.png">
  </div>
 </div>
 
 <br />
 
-![Snake animation](https://github.com/ghosharnab00/ghosharnab00/blob/output/github-contribution-grid-snake.svg)
-<!---
-fahrad20/fahrad20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----><div align="center">
+![Snake animation](https://github.com/ghosharnab00/ghosharnab00/blob/output/github-contribution-grid-snake.svg)<div align="center">
 ![](https://komarev.com/ghpvc/?username=fahrad20&color=blueviolet&style=flat-square)
    </div>

@@ -7,7 +7,7 @@
 
  <br />
 <div align="center"> 
- <img height="150em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=fahrad20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <img height="150em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=fahrad20&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrad20&layout=compact&langs_count=5&theme=algolia"/>
 </div>
 

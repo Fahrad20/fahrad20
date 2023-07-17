@@ -21,7 +21,7 @@ Hi there I'm Fahrad Levonyan (https://www.linkedin.com/in/levonyanfahrad/) 👋
 </a>
 
 <a href="https://github.com/Fahrad20/Fahrad20.github.io/blob/main/FAHRAD_LEVONYAN_CV.pdf" download="Fahrad Levonyan - CV" target="_blank">
-<img src="https://github.com/Fahrad20/Fahrad20.github.io/blob/main/static/media/download.76117dd43a793ab638dc.svg">
+<img src="https://github.com/Fahrad20/Fahrad20.github.io/blob/main/cv.png">
 </a>
 
  <br />

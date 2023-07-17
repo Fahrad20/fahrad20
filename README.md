@@ -24,13 +24,15 @@ Hi there I'm Fahrad Levonyan (https://www.linkedin.com/in/levonyanfahrad/) 👋
 
 <div align="left"> 
   <div style="display: inline_block"><br>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-    <img align="center" alt="Node" height="30" width="40" src="https://arnabghosh.me/img/logo-nodejs.png"/>
+    <img align="center" alt="HTML_JS_CSS" height="30" width="120" src="https://github.com/Fahrad20/Fahrad20.github.io/blob/main/html_css_js.png"/>
+    <img align="center" alt="Next.js" height="30" width="40" src="https://github.com/Fahrad20/Fahrad20.github.io/blob/main/next.webp"/>
+    <img align="center" alt="Redux" height="30" width="40" src="https://github.com/Fahrad20/Fahrad20.github.io/blob/main/redux.png"/>
+    <img align="center" alt="React" height="30" width="40" src="https://github.com/Fahrad20/Fahrad20.github.io/blob/main/react.png"/>
+    <img align="center" alt="SASS" height="30" width="40" src="https://github.com/Fahrad20/Fahrad20.github.io/blob/main/sass.png"/>
+    <img align="center" alt="Node" height="30" width="40" src="https://github.com/Fahrad20/Fahrad20.github.io/blob/main/node.png"/>
     <img align="center" alt="Pug" height="30" width="40" src="https://github.com/Fahrad20/Fahrad20.github.io/blob/main/pug.png"/>
+    <img align="center" alt="TS" height="30" width="40" src="https://github.com/Fahrad20/Fahrad20.github.io/blob/main/ts.png"/>
+   <img align="center" alt="Webpack" height="30" width="40" src="https://github.com/Fahrad20/Fahrad20.github.io/blob/main/webpack.png"/>
  </div>
 </div>
 

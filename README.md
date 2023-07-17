@@ -36,5 +36,5 @@ Hi there I'm Fahrad Levonyan (https://www.linkedin.com/in/levonyanfahrad/) 👋
 </div>
 
 <br />
-<img alt='ninja' height='200px' src='https://github.com/Fahrad20/Fahrad20.github.io/blob/main/ninja.gif'>
+<img alt='ninja' src='https://github.com/Fahrad20/Fahrad20.github.io/blob/main/ninja.gif'>
 ![](https://komarev.com/ghpvc/?username=fahrad20&color=blueviolet&style=flat-square)

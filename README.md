@@ -12,18 +12,17 @@ Hi there I'm Fahrad Levonyan (https://www.linkedin.com/in/levonyanfahrad/) 👋
 </div>
 
 <br />
-
+<div style="display: flex">
 <a href="https://www.linkedin.com/in/levonyanfahrad">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:levonyanfahrad20@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-
 <a href="https://github.com/Fahrad20/Fahrad20.github.io/blob/main/FAHRAD_LEVONYAN_CV.pdf" download="Fahrad Levonyan - CV" target="_blank">
 <img src="https://github.com/Fahrad20/Fahrad20.github.io/blob/main/cv.png">
 </a>
-
+</div>
  <br />
 
 <div align="left"> 

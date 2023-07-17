@@ -30,7 +30,7 @@ Hi there I'm Fahrad Levonyan (https://www.linkedin.com/in/levonyanfahrad/) 👋
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
     <img align="center" alt="Node" height="30" width="40" src="https://arnabghosh.me/img/logo-nodejs.png"/>
-    <img align="center" alt="Pug" height="30" width="40" src="https://arnabghosh.me/img/analytics-logo.png](https://github.com/Fahrad20/Fahrad20.github.io/blob/main/pug.png)"/>
+    <img align="center" alt="Pug" height="30" width="40" src="https://github.com/Fahrad20/Fahrad20.github.io/blob/main/pug.png"/>
     <img align="center" alt="Fahrad-Ghost" height="30" width="40" src="https://arnabghosh.me/img/ghost-logo.png"/>
  </div>
 </div>

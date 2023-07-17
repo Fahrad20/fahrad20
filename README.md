@@ -1,4 +1,4 @@
-***Hi there I'm Fahrad Levonyan (https://www.linkedin.com/in/levonyanfahrad/) 👋
+Hi there I'm Fahrad Levonyan (https://www.linkedin.com/in/levonyanfahrad/) 👋
 
 - 🇦🇲 Armenia
 - 🚀 Front-end developer

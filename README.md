@@ -1,9 +1,8 @@
 Hi there I'm Fahrad Levonyan (https://www.linkedin.com/in/levonyanfahrad/) 👋
 
 - 🇦🇲 Armenia
-- 🚀 Front-end developer
+- 🚀 Full Stack developer
 - 👨‍🏫 Front-end lecturer
-- 🌱 I’m currently learning Full-stack Development - React.js, Next.js, Node.js...
 
  <br />
 <div align="center"> 

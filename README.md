@@ -1,6 +1,6 @@
 Hi there I'm Fahrad Levonyan (https://www.linkedin.com/in/levonyanfahrad/) 👋
 
-- 🇦🇲 Armenia
+- 🌐 Armenia
 - 🚀 Full Stack developer
 - 👨‍🏫 Front-end lecturer
 

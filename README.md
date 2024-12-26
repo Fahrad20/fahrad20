@@ -20,9 +20,9 @@ For collaboration or inquiries:
 
 # 📊 GitHub Stats
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahrad20&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrad20&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrad20&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fahrad20&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrad20&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrad20&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150px"/>
 </div>
 
 ## 🏆 GitHub Trophies

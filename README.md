@@ -1,9 +1,7 @@
 # 💫 About Me
 I’m a Senior Front-End Developer from Armenia with over 5 years of experience crafting modern, scalable, and user-friendly web applications. Proficient in React.js, Next.js, and TypeScript, I specialize in building efficient, high-performance interfaces and bringing designs to life.
 
-
 With expertise in both front-end and back-end technologies like Node.js, Express.js, and Nest.js, I create seamless full-stack solutions. Passionate about clean code, innovative design, and collaboration, I’ve successfully led teams and delivered impactful projects.
-
 
 Let’s build something great together! 🚀
 

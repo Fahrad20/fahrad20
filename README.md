@@ -1,7 +1,9 @@
 # 💫 About Me
-I’m a Senior Front-End Developer from Armenia with over 5 years of experience crafting modern, scalable, and user-friendly web applications. Proficient in React.js, Next.js, and TypeScript, I specialize in building efficient, high-performance interfaces and bringing designs to life.
-
-With expertise in both front-end and back-end technologies like Node.js, Express.js, and Nest.js, I create seamless full-stack solutions. Passionate about clean code, innovative design, and collaboration, I’ve successfully led teams and delivered impactful projects.
+Senior Front-End Engineer with commercial experience since 2020, building scalable,
+high-performance web and mobile products. Expert in the JavaScript ecosystem (React, Next.js,
+React Native, TypeScript) with strong experience in iGaming, AI, and FinT ech. Proven team lead
+skilled in guiding engineering teams and delivering reliable, business-critical solutions with a focus
+on performance, accessibility, and clean, maintainable code.
 
 Let’s build something great together! 🚀
 
@@ -9,9 +11,9 @@ For collaboration or inquiries:
 
 📧 Email: levonyanfahrad20@gmail.com
 
-📱 Telegram: @levonyan_20
+📱 Telegram: [@levonyan_20](https://t.me/levonyan_20)
 
-🌐 Portfolio: fahrad20.github.io
+🌐 Portfolio: [fahrad20.github.io](https://fahrad20.github.io/)
 
 
 

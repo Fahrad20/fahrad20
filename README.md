@@ -9,7 +9,7 @@ Let’s build something great together! 🚀
 
 For collaboration or inquiries:
 
-📧 Email: levonyanfahrad20@gmail.com
+📧 Email: levonyanfahrad@gmail.com
 
 📱 Telegram: [@levonyan_20](https://t.me/levonyan_20)
 

@@ -18,7 +18,7 @@ For collaboration or inquiries:
 # 💻 Tech Stack
 
 ### 🚀 Core Frontend & Mobile Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000000.svg?style=for-the-badge&logo=remix&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Svelte](https://img.shields.io/badge/Svelte-4A4A4A?style=for-the-badge&logo=svelte&logoColor=FF3E00) ![Preact](https://img.shields.io/badge/Preact-673AB7?style=for-the-badge&logo=preact&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000000.svg?style=for-the-badge&logo=remix&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 ### 🎨 UI Ecosystem & Styling
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
@@ -46,8 +46,8 @@ For collaboration or inquiries:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahrad20&show_icons=true&theme=radical&count_private=true&show=prs_merged,discussions_answered" alt="Fahrad's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrad20&layout=compact&theme=radical&hide=css,html" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahrad20&show_icons=true&theme=radical&count_private=true&show=prs_merged,discussions_answered&height=195" alt="Fahrad's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrad20&layout=compact&theme=radical&hide=css,html&height=195" alt="Top Langs" width="49%" />
 </p>
 
 ## 🔥 GitHub Streak

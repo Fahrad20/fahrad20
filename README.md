@@ -45,14 +45,20 @@ For collaboration or inquiries:
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahrad20&show_icons=true&theme=radical&count_private=true&show=prs_merged,discussions_answered&height=195" alt="Fahrad's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrad20&layout=compact&theme=radical&hide=css,html&height=195" alt="Top Langs" width="49%" />
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=fahrad20&show_icons=true&theme=radical&count_private=true&show=prs_merged,discussions_answered" alt="Fahrad's GitHub stats" width="98%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrad20&layout=compact&theme=radical&hide=css,html" alt="Top Langs" width="98%" />
+    </td>
+  </tr>
+</table>
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrad20&theme=radical" alt="Fahrad's GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=fahrad20&theme=radical" alt="Fahrad's GitHub Streak" width="100%" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -66,5 +72,5 @@ For collaboration or inquiries:
 
 ---
 <p align="center">
-  <img src="https://shields.io/github/v/release/fahrad20/fahrad20?label=Profile%20Views&logo=github&color=61DAFB&style=flat-square" alt="Views" />
+  <img src="https://hit.yhype.me/github/profile?user_id=fahrad20" alt="Profile Views Counter" />
 </p>

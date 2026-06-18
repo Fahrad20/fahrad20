@@ -58,11 +58,13 @@ For collaboration or inquiries:
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=fahrad20&theme=radical" alt="Fahrad's GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=fahrad20&theme=radical" alt="Fahrad's GitHub Streak" width="100%" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fahrad20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🛠️ Most Used Skills
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrad20&layout=donut&theme=radical&hide=css,html,scss,shell" alt="Top Skills" width="50%" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />

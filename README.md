@@ -56,14 +56,9 @@ For collaboration or inquiries:
   </tr>
 </table>
 
-## 🔥 GitHub Streak
+## 📈 Contribution Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fahrad20&theme=radical" alt="Fahrad's GitHub Streak" width="100%" />
-</p>
-
-## 🛠️ Most Used Skills
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrad20&layout=donut&theme=radical&hide=css,html,scss,shell" alt="Top Skills" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahrad20&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" alt="Fahrad's Activity" width="100%" />
 </p>
 
 <picture>

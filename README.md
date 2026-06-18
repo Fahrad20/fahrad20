@@ -56,11 +56,6 @@ For collaboration or inquiries:
   </tr>
 </table>
 
-## 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahrad20&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" alt="Fahrad's Activity" width="100%" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />

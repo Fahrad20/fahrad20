@@ -1,4 +1,8 @@
-# 💫 About Me
+# 👋 Hi, I'm Fahrad Levonyan
+
+**Senior Front-End Engineer & Team Lead** from Armenia · React · TypeScript · React Native · Real-time web apps
+
+## 💫 About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&width=500&lines=Senior+Front-End+Engineer;Team+Lead+%26+Mentor;AI-Native+Architect;High-Load+iGaming+Expert)](https://git.io/typing-svg)
 
 Senior Front-End Engineer & Team Lead with commercial experience since 2020, specializing in building high-load, real-time web and mobile applications. Expert in the JavaScript/TypeScript ecosystem with deep expertise in high-traffic iGaming platforms, WebSockets, and AI-native architecture. 

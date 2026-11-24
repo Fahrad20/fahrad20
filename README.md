@@ -12,10 +12,19 @@ Proven track record of mentoring developers, leading cross-functional teams, and
 Let’s build something great together! 🚀
 
 For collaboration or inquiries: <br>
-📧 **Email:** levonyanfahrad@gmail.com | 
+📧 **Email:** [levonyanfahrad@gmail.com](mailto:levonyanfahrad@gmail.com) | 
 📱 **Telegram:** [@fahrad_l](https://t.me/fahrad_l) | 
 💼 **LinkedIn:** [in/levonyanfahrad](https://www.linkedin.com/in/levonyanfahrad/) | 
 🌐 **Portfolio:** [fahrad20.github.io](https://fahrad20.github.io/)
+
+---
+
+## 📌 Featured Project
+
+### ⌨️ [Armenian Phonetic Keyboard for macOS](https://github.com/Fahrad20/Armenian-Phonetic-Unicode-macOS)
+Type Armenian with your usual Latin keys: `a → ա`, `b → բ`, `g → գ`. A native macOS keyboard layout, no extra apps and no sudo.
+
+If it's useful to you, a ⭐ on the repo helps others find it. Feedback and issues are welcome.
 
 ---
 
@@ -47,23 +56,12 @@ For collaboration or inquiries: <br>
 
 ---
 
-## 📊 GitHub Analytics
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=fahrad20&show_icons=true&theme=radical&count_private=true&show=prs_merged,discussions_answered" alt="Fahrad's GitHub stats" width="98%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrad20&layout=compact&theme=radical&hide=css,html" alt="Top Langs" width="98%" />
-    </td>
-  </tr>
-</table>
+## 🐍 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fahrad20/fahrad20/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fahrad20/fahrad20/output/github-snake.svg" />
+  <img alt="Fahrad Levonyan's contribution graph as a snake animation" src="https://raw.githubusercontent.com/Fahrad20/fahrad20/output/github-snake.svg" />
 </picture>
 
 ---
